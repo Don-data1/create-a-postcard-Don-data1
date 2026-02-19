@@ -1,15 +1,15 @@
 ---
-title: "My Postcard"
-image: "profile.jpg"
+title: "Malique Russell"
+image: "profile.jpeg"
 links:
   - label: LinkedIn
     url: "http://linkedin.com/in/malique-n-russell"
   - label: GitHub My Postard
-    url: "https://github.com/"
+    url: "https://github.com/Don-data1"
   - label: Email
     url: "malique.russell@lc.cuny.edu"
 output:
-  postcards::trestles
+  postcards::jolla-blue
 ---
  
 ## Bio
