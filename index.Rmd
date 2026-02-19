@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "malique.russell@lc.cuny.edu"
 output:
-  postcards::jolla-blue
+  postcards::jolla
 ---
  
 ## Bio
