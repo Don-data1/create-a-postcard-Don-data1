@@ -3,24 +3,24 @@ title: "My Postcard"
 image: "profile.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: GitHub
+    url: "http://linkedin.com/in/malique-n-russell"
+  - label: GitHub My Postard
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@example.com"
+    url: "malique.russell@lc.cuny.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-This is a sample postcard site created with the postcards R package.
+I am a student at the City University of New York studying Accounting and Business Administration
 
 ## Education
 
-**University Name** | City, State
+**Lehman College** | Bronx, New York
 
-B.S. in Subject | Year - Year
+B.S. in Accounting and BBA Business Administration | Year - Year
 
 ## Experience
 
